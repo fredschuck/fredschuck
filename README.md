@@ -19,12 +19,9 @@ I'm Fred, a computer science student from UNC Charlotte. I'm pretty passionate a
 ## What I'm Up To
 - 🔭 I’m currently working on [Routine Ranger](https://github.com/fredschuck/workout_app)
 
-- 🌱 I’m currently learning **Spring, Kotlin**
+- 🌱 I’m currently learning **mobile development for Android and Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fredschuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredschuck" height="30" width="40" /></a>
 </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredschuck&label=Profile%20views&color=3C70B0&style=flat" alt="fredschuck" /> </p>
