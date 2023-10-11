@@ -19,7 +19,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm pretty passionate a
 ## What I'm Up To
 - 🔭 I’m currently working on [Routine Ranger](https://github.com/fredschuck/workout_app)
 
-- 🌱 I’m currently learning **Spring, Kotlin, & Swift**
+- 🌱 I’m currently learning **mobile development for Android and Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
