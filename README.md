@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/fredschuck/fredschuck/master/git_header%20copy.png" alt="Fred Schuck" />
+  <img src="https://raw.githubusercontent.com/fredschuck/fredschuck/master/git_headerGradient.png" alt="Fred Schuck" />
 </h1>
 
 ## Hey! 👋
