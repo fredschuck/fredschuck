@@ -1,4 +1,4 @@
-<svg width="700" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="30" xmlns="http://www.w3.org/2000/svg">
   <!-- Use text element to display the fish emoji -->
   <text x="0" y="20" font-size="24">&#128032;</text>
 
