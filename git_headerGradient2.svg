@@ -4,7 +4,7 @@
 			<style>
         @media screen and (max-width: 600px){
 			.bubble { font-size: 7px; }
-			.fish { font-size: .75em; } 
+			.fish { font-size: 10px; } 
 		  }
 				@keyframes gradientText {
 				  0% {
