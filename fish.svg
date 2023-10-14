@@ -1,0 +1,28 @@
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Use text element to display the fish emoji -->
+  <text x="0" y="20" font-size="24">&#128032;</text>
+
+  <!-- Define a style block for CSS animations -->
+  <style type="text/css">
+    <![CDATA[
+      @keyframes fishMove {
+        0% {
+          transform: translateX(0) scaleX(-1);
+        }
+        50% {
+          transform: translateX(600px) scaleX(-1);
+        }
+        51% {
+          transform: translateX(600px) scaleX(1);
+        }
+        100% {
+          transform: translateX(0) scaleX(1);
+        }
+      }
+      
+      text {
+        animation: fishMove 10s linear infinite;
+      }
+    ]]>
+  </style>
+</svg>

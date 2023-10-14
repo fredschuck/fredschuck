@@ -1,6 +1,9 @@
-<h1 align="center">
+<div align="center">
   <img src="git_headerGradient.svg" alt="Fred Schuck" />
-</h1>
+  <img src="bubbles.svg" alt="Fred Schuck" />
+  <img src="fish.svg" alt="Fred Schuck" />
+</div>
+
 
 ## Hey! 👋
 I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently working on a mobile app for Android and a web app for Spring. I'm always looking for new opportunities to learn and grow as a developer.
@@ -29,7 +32,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 
 - 🎨 I love graphic design (Adobe Photoshop, Illustrator, XD)
 
-- 🛠️ I love building things
+- 🛠️ I love building things 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
