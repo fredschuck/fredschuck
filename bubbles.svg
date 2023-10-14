@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="100">
-  <!-- Define the background rectangle for the "aquarium" -->
-  <!-- <rect width="100%" height="100%" fill= /> -->
-
   <!-- Create multiple bubbles with text elements and apply CSS class for styling -->
-  <text x="100" y="300" font-size="16" class="bubble">🫧</text>
+  <text x="250" y="300" font-size="16" class="bubble">🫧</text>
   <text x="200" y="300" font-size="10" class="bubble">🫧</text>
   <text x="350" y="300" font-size="12" class="bubble">🫧</text>
   <text x="550" y="300" font-size="14" class="bubble">🫧</text>
+  <text x="450" y="300" font-size="18" class="bubble">🫧</text> <!-- New 5th bubble -->
 
   <!-- Apply CSS animations to the class "bubble" -->
   <style type="text/css">
@@ -34,6 +32,10 @@
 
       .bubble:nth-child(4) {
         animation: bubbleAnimation 3.8s linear infinite 0.5s;
+      }
+
+      .bubble:nth-child(5) {
+        animation: bubbleAnimation 3s linear infinite 1.5s; /* Adjust the animation delay as needed */
       }
     ]]>
   </style>

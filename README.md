@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="git_headerGradient.svg" alt="Fred Schuck" />
-  <img src="bubbles.svg" alt="Fred Schuck" />
+  <img src="git_headerGradient.svg" alt="Fred Schuck" style="position: absolute; top: 0; left: 0; z-index: 1;" />
+  <img src="bubbles.svg" alt="Fred Schuck" style="position: absolute; top: 0; left: 0; z-index: 2;" />
   <img src="fish.svg" alt="Fred Schuck" />
 </div>
+
 
 
 ## Hey! 👋
