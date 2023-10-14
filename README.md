@@ -2,9 +2,9 @@
   <img src="git_headerGradient.svg" alt="Fred Schuck" />
   <!-- <img src="bubbles.svg" alt="Fred Schuck" /> -->
   <img src="fish.svg" alt="Fred Schuck" />
-</div>
-
-
+</div>   
+   
+ 
 ## Hey! 👋
 I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently working on a mobile app for Android and a web app for Spring. I'm always looking for new opportunities to learn and grow as a developer.
 
