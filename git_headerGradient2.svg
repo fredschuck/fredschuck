@@ -2,11 +2,11 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-        @media screen and (max-width: 768px){
+        <!-- @media screen and (max-width: 768px){
           .bubble,
           .fish {
               display: none;
-        }}
+        }} -->
 				@keyframes gradientText {
 				  0% {
 				    background-position: 0% 50%;
