@@ -2,7 +2,7 @@
   <img src="git_headerGradient2.svg" alt="Fred Schuck" />
   <!-- <img src="fish.svg" alt="Fred Schuck" /> -->
 </div>      
-                     
+                      
     
 ## Hey! 👋
 I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently working on a mobile app for Android and a web app for Spring. I'm always looking for new opportunities to learn and grow as a developer.
@@ -39,4 +39,4 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 <a href="https://linkedin.com/in/fredschuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredschuck" height="30" width="40" /></a>
 </p>
 
-> If there is an issue with the SVGs, please let me know. I'm still learning how to use them. 
+> The SVG above was entirely coded from scratch. If you want to see how I did it, save the image and open it in a text editor.
