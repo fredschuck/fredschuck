@@ -138,15 +138,52 @@
 					animation-delay: 8s;
 				}
 
+				.fish {
+					position: fixed;
+					bottom: 0;
+					z-index: 9999;
+					-webkit-user-select: none;
+					-moz-user-select: none;
+					-ms-user-select: none;
+					user-select: none;
+					cursor: default;
+					-webkit-animation-name: fishMove;
+					-webkit-animation-duration: 20s;
+					-webkit-animation-timing-function: linear;
+					-webkit-animation-iteration-count: infinite;
+					-webkit-animation-play-state: running;
+					animation-name: fishMove;
+					animation-duration: 20s;
+					animation-timing-function: linear;
+					animation-iteration-count: infinite;
+					animation-play-state: running;
+					font-size: 2em;
+				}
+				@keyframes fishMove {
+					0% {
+						transform: translateX(100px) translateY(0) scaleX(-1);
+					}
+					50% {
+						transform: translateX(600px) translateY(-60px) scaleX(-1);
+					}
+					51% {
+						transform: translateX(600px) translateY(-60px) scaleX(1);
+					}
+					100% {
+						transform: translateX(100px) translateY(0) scaleX(1);
+					}
+				}
+
 			</style>
 			<h1>Fred Schuck</h1>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="bubble">🫧</div>
+			<div xmlns="http://www.w3.org/1999/xhtml" class="fish">🐠</div>
 		</div>
 	</foreignObject>
 </svg>

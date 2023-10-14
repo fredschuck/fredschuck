@@ -1,22 +1,22 @@
 <div align="center">
   <img src="git_headerGradient.svg" alt="Fred Schuck" />
-  <!-- <img src="bubbles.svg" alt="Fred Schuck" /> -->
-  <img src="fish.svg" alt="Fred Schuck" />
-</div>   
-   
- 
+  <!-- <img src="fish.svg" alt="Fred Schuck" /> -->
+</div>    
+              
+    
 ## Hey! 👋
 I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently working on a mobile app for Android and a web app for Spring. I'm always looking for new opportunities to learn and grow as a developer.
 
 
-## Tech Stack
-- **Programming Languages** | Java, Python, C, JavaScript
+## Skills 
+- **Programming Languages** | Java, Python, C, JavaScript 
 - **Frontend** |  HTML, CSS, Bootstrap
-- **Backend** | NodeJS, Jinja 2, EJS
+- **Backend** | NodeJS, Jinja 2, EJS 
 - **Database** | MongoDB, PostgreSQL, MySQL
 - **Frameworks** | Flask, Express, Spring
-- **Mobile** | Android
-- **Tools** | Git, GitHub, VS Code, IntelliJ, Android Studio, Postman, Photoshop, Illustrator, XD
+- **Mobile** | Android 
+- **Dev Tools** | Git, VS Code, IntelliJ, Android Studio, Postman
+- **Design Tools** | Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
 - 🔭 I’m currently working on [Routine Ranger](https://github.com/fredschuck/workout_app)
@@ -38,3 +38,5 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 <p align="left">
 <a href="https://linkedin.com/in/fredschuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredschuck" height="30" width="40" /></a>
 </p>
+
+> If there is an issue with the SVGs, please let me know. I'm still learning how to use them. 
