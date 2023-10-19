@@ -19,7 +19,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 - **Design Tools** | Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
-- 🔭 I’m currently working on [Routine Ranger](https://github.com/fredschuck/workout_app)
+- 🔭 I’m currently working on [Seaglass](https://github.com/QuantumOcean/seaglass_ui) and [Routine Ranger](https://github.com/fredschuck/workout_app)
 
 - 🌱 I’m currently learning **mobile development for Android and Spring**
 
