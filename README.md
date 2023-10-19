@@ -10,7 +10,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 
 ## Skills 
 - **Programming Languages** | Java, Python, C, JavaScript 
-- **Frontend** |  HTML, CSS, Bootstrap
+- **Frontend** |  HTML, CSS, SCSS, Bootstrap
 - **Backend** | NodeJS, Jinja 2, EJS 
 - **Database** | MongoDB, PostgreSQL, MySQL
 - **Frameworks** | Flask, Express, Spring
