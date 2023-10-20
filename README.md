@@ -10,7 +10,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 
 ## Skills 
 - **Programming Languages** | Java, Python, C, JavaScript 
-- **Frontend** |  HTML, CSS, SCSS, Bootstrap
+- **Frontend** |  HTML, CSS, SASS, Bootstrap
 - **Backend** | NodeJS, Jinja 2, EJS 
 - **Database** | MongoDB, PostgreSQL, MySQL
 - **Frameworks** | Flask, Express, Spring
@@ -28,11 +28,11 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 ## Hobbies
 - 🎸 I play guitar
 
-- ♟️ I play [chess](https://www.chess.com/member/technofunkwizard)  (ELO: ~1100 Rapid)
+- ♟️ I play [chess](https://www.chess.com/member/technofunkwizard)  (ELO: ~1100 Rapid, ~790 Blitz)
 
-- 🎨 I love graphic design (Adobe Photoshop, Illustrator, XD)
+- 🎨 I love to design (Adobe Photoshop, Illustrator, XD)
 
-- 🛠️ I love building things 
+- 🖥️ Code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
