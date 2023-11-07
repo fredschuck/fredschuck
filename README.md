@@ -11,13 +11,11 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 
 
 ## Skills 
-- **Programming Languages** | Java, Python, C, JavaScript 
-- **Frontend** |  HTML, CSS, SASS, Bootstrap
-- **Backend** | NodeJS, Jinja 2, EJS 
-- **Database** | MongoDB, PostgreSQL, MySQL
-- **Frameworks** | Flask, Express
-- **Mobile** | Android 
-- **Dev Tools** | Git, VS Code, IntelliJ, Android Studio, Postman
+- **Programming Languages**: Java, Python, C, JavaScript, Swift
+- **Web Development**: HTML, CSS, SASS, React, Bootstrap
+- **Mobile Development**: Android
+- **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL
+- **Testing and Tools**: JUnit, Git, VS Code, Postman, Android Studio, Eclipse
 - **Design Tools** | Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
