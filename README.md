@@ -13,7 +13,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 - **Frontend** |  HTML, CSS, SASS, Bootstrap
 - **Backend** | NodeJS, Jinja 2, EJS 
 - **Database** | MongoDB, PostgreSQL, MySQL
-- **Frameworks** | Flask, Express, Spring
+- **Frameworks** | Flask, Express
 - **Mobile** | Android 
 - **Dev Tools** | Git, VS Code, IntelliJ, Android Studio, Postman
 - **Design Tools** | Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
@@ -21,7 +21,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 ## What I'm Up To
 - 🔭 I’m currently working on [Seaglass](https://github.com/QuantumOcean/seaglass_ui) and [Routine Ranger](https://github.com/fredschuck/workout_app)
 
-- 🌱 I’m currently learning **mobile development for Android and Spring**
+- 🌱 I’m  learning **mobile development for Android and React**
 
 - 👯 I’m looking to collaborate on **anything!**
 
@@ -38,5 +38,3 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 <p align="left">
 <a href="https://linkedin.com/in/fredschuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredschuck" height="30" width="40" /></a>
 </p>
-
-> The SVG above was entirely coded from scratch. If you want to see how I did it, save the image and open it in a text editor.
