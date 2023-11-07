@@ -5,7 +5,7 @@
                       
     
 ## Hey! 👋
-I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently learning mobile application development for Android and React. I'm always looking for new opportunities to learn and grow as a developer. Checkout my resume [here](FredSchuckResume.pdf).
+I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently learning mobile application development for Android and React. I'm always looking for new opportunities to learn and grow as a developer. **Checkout my resume [here](https://github.com/fredschuck/fredschuck/blob/main/FredSchuck_resume.pdf)**.
 
 
 ## Skills 
