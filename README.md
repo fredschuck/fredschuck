@@ -16,7 +16,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 - **Mobile Development**: Android
 - **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL
 - **Testing and Tools**: JUnit, Git, VS Code, Postman, Android Studio, Eclipse
-- **Design Tools** | Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
+- **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
 - 🔭 I’m currently working on [Seaglass](https://github.com/QuantumOcean/seaglass_ui) and [Routine Ranger](https://github.com/fredschuck/workout_app)
