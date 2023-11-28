@@ -5,7 +5,7 @@
                       
     
 ## Hey! 👋
-I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently learning mobile application development for Android and React. I'm always looking for new opportunities to learn and grow as a developer. 
+I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently learning Spring, mobile application development for Android, and React. I'm always looking for new opportunities to learn and grow as a developer. 
 
 > [Resume](https://github.com/fredschuck/fredschuck/blob/main/FredSchuck_resume.pdf)
 
@@ -21,7 +21,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 ## What I'm Up To
 - 🔭 I’m currently working on [Seaglass](https://github.com/QuantumOcean/seaglass_ui) and [Routine Ranger](https://github.com/fredschuck/workout_app)
 
-- 🌱 I’m  learning **mobile development for Android and React**
+- 🌱 I’m  learning **mobile development for Android, Spring, and React**
 
 - 👯 I’m looking to collaborate on **anything!**
 
