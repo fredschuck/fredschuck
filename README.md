@@ -21,9 +21,11 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 ## What I'm Up To
 - 🔭 I’m currently working on [Seaglass](https://github.com/QuantumOcean/seaglass_ui) and [Routine Ranger](https://github.com/fredschuck/workout_app)
 
-- 🌱 I’m  learning **mobile development for Android, Spring, and React**
+- 🌱 I’m  learning **Spring and React**
 
 - 👯 I’m looking to collaborate on **anything!**
+
+- 🇧🇷 Learning **Portuguese** 
 
 ## Hobbies
 - 🎸 I play guitar
