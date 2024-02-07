@@ -7,8 +7,6 @@
 ## Hey! 👋
 I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently learning Spring, mobile application development for Android, and React. I'm always looking for new opportunities to learn and grow as a developer. 
 
-> [Resume](https://github.com/fredschuck/fredschuck/blob/main/FredSchuck_resume.pdf)
-
 
 ## Skills 
 - **Programming Languages**: Java, Python, C, JavaScript, Swift
