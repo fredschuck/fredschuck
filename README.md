@@ -28,7 +28,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 ## Hobbies
 - 🎸 I play guitar
 
-- ♟️ I play [chess](https://www.chess.com/member/technofunkwizard)  (ELO: ~1100 Rapid, ~790 Blitz)
+- ♟️ I play [chess](https://www.chess.com/member/fredschuck)  (ELO: ~1100 Rapid, ~850 Blitz)
 
 - 🎨 I love to design (Adobe Photoshop, Illustrator, XD)
 
