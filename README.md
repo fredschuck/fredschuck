@@ -5,21 +5,21 @@
                       
     
 ## Hey! 👋
-I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently learning Spring, mobile application development for Android, and React. I'm always looking for new opportunities to learn and grow as a developer. 
+I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently working on my Capstone project. I'm always looking for new opportunities to learn and grow as a developer. 
 
 
 ## Skills 
 - **Programming Languages**: Java, Python, C, JavaScript, Swift
-- **Web Development**: HTML, CSS, SASS, React, Bootstrap
+- **Web Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS
 - **Mobile Development**: Android
-- **Back-End Technologies**: NodeJS, Express, Spring Boot, Flask, MongoDB, PostgreSQL, MySQL
+- **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL
 - **Testing and Tools**: JUnit, Git, VS Code, Postman, Android Studio, Eclipse
 - **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
 - 🔭 I’m currently working on [Seaglass](https://github.com/QuantumOcean/seaglass_ui) and [Routine Ranger](https://github.com/fredschuck/workout_app)
 
-- 🌱 I’m  learning **Spring and React**
+- 🌱 I’m  learning **Tailwind**
 
 - 👯 I’m looking to collaborate on **anything!**
 
