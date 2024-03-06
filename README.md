@@ -17,7 +17,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 - **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
-- 🔭 I’m currently working on [Seaglass](https://github.com/QuantumOcean/seaglass_ui) and [Routine Ranger](https://github.com/fredschuck/workout_app)
+- 🔭 I’m currently working on an eCommerce web application and obtaining my AWS Cloud Practitioner Certificate. 
 
 - 🌱 I’m  learning **Tailwind**
 
@@ -28,7 +28,7 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 ## Hobbies
 - 🎸 I play guitar
 
-- ♟️ I play [chess](https://www.chess.com/member/fredschuck)  (ELO: ~1100 Rapid, ~850 Blitz)
+- ♟️ I play [chess](https://www.chess.com/member/fredschuck)  (ELO: ~1150 Rapid, ~850 Blitz)
 
 - 🎨 I love to design (Adobe Photoshop, Illustrator, XD)
 
