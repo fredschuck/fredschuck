@@ -17,9 +17,9 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 - **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
-- 🔭 I’m currently working on an eCommerce web application and obtaining my AWS Cloud Practitioner Certificate. 
+- 🔭 I’m currently working on an eCommerce web application, **[Sakura Market](https://github.com/fredschuck/sakura-market)**, a workout web-app, **[PumpShare](https://github.com/lukesnc/pumpshare)**, and obtaining my **AWS Cloud Practitioner Certificate**. 
 
-- 🌱 I’m  learning **Tailwind**
+- 🌱 I’m learning **Docker**
 
 - 👯 I’m looking to collaborate on **anything!**
 
