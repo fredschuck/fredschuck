@@ -1,15 +1,17 @@
 <div align="center">
   <img src="git_headerGradient2.svg" alt="Fred Schuck" />
-  <!-- <img src="fish.svg" alt="Fred Schuck" /> -->
 </div>      
                       
     
 ## Hey! 👋
-I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and love to build things. I'm currently working on my Capstone project. I'm always looking for new opportunities to learn and grow as a developer. 
+I'm an avid DIY'er and love to build things. I enjoy working on fullstack applications, where I am able to exercise my design capabilites and develop backend logic to drive the application's functionality. I'm always looking for new opportunities to learn and grow as a developer.
+
+> “A ship is safe in harbor, but that's not what ships are for." — William Shed
+
 
 
 ## Skills 
-- **Programming Languages**: Java, Python, C, JavaScript, Swift
+- **Programming Languages**: JavaScript,Java, Python, C, Swift
 - **Web Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS
 - **Mobile Development**: Android
 - **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL
@@ -19,11 +21,9 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 ## What I'm Up To
 - 🔭 I’m currently working on an eCommerce web application, **[Sakura Market](https://github.com/fredschuck/sakura-market)**, a workout web-app, **[PumpShare](https://github.com/lukesnc/pumpshare)**, and obtaining my **AWS Cloud Practitioner Certificate**. 
 
-- 🌱 I’m learning **Docker**
+- 🌱 I’m learning **Docker** and **Portuguese** 
 
 - 👯 I’m looking to collaborate on **anything!**
-
-- 🇧🇷 Learning **Portuguese** 
 
 ## Hobbies
 - 🎸 I play guitar
@@ -36,7 +36,13 @@ I'm Fred, a computer science student from UNC Charlotte. I'm an avid DIY'er and 
 
 - 📚 Writing 
 
+- 🍗 Perfecting my wing seasoning recipe
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fredschuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredschuck" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  <img src="honest-work.jpg" width="40%" alt="Fred Schuck" />
+</div>    
