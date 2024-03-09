@@ -23,9 +23,10 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 
 | Project          | Description                                         | Progress |
 |------------------|-----------------------------------------------------|----------|
-| [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                         | ![Progress](https://progress-bar.dev/26/?scale=100&&width=220&color=968c52&suffix=%) |
-| [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts                                   | ![Progress](https://progress-bar.dev/25/?scale=100&width=220&color=4BBD8E&suffix=%) |
-| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate     | ![Progress](https://progress-bar.dev/42/?scale=100&width=220&color=007eb9&suffix=%) |
+| [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                        | ![Progress](https://progress-bar.dev/26/?scale=100&&width=220&suffix=%)|
+| [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts   | ![Progress](https://progress-bar.dev/25/?scale=100&width=220&suffix=%) |
+| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate     | ![Progress](https://progress-bar.dev/42/?scale=100&width=220&suffix=%) |
+| Docker Course                                                 | Learning Docker                                     | ![Progress](https://progress-bar.dev/0/?scale=100&width=220&suffix=%)  |
 
 - 🌱 I’m learning **Docker** and **Portuguese** 
 
