@@ -19,6 +19,14 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 - **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
+- 🔭 I’m currently working on:
+
+| Project          | Description                                         | Progress |
+|------------------|-----------------------------------------------------|----------|
+| [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                         | ![Progress](https://progress-bar.dev/26/?scale=100&&width=220&color=968c52&suffix=%) |
+| [PumpShare](https://github.com/lukesnc/pumpshare)             | A workout web-app                                   | ![Progress](https://progress-bar.dev/25/?scale=100&width=220&color=4BBD8E&suffix=%) |
+| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate     | ![Progress](https://progress-bar.dev/42/?scale=100&width=220&color=007eb9&suffix=%) |
+
 - 🔭 I’m currently working on: an eCommerce web application, **[Sakura Market](https://github.com/fredschuck/sakura-market)**, a workout web-app, **[PumpShare](https://github.com/lukesnc/pumpshare)**, and obtaining my **AWS Cloud Practitioner Certificate**. 
 
 - 🌱 I’m learning **Docker** and **Portuguese** 
@@ -41,15 +49,14 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fredschuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredschuck" height="30" width="40" /></a>
-<br><br>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <h2>My Progress</h2>
 <img src="https://progress-bar.dev/42/?scale=100&title=AWS%20Certificate&width=220&color=007eb9&suffix=%" alt="Progress" /><br>
 <img src="https://progress-bar.dev/25/?scale=100&title=PumpShare%20%20%20%20%20%20&width=220&color=4BBD8E&suffix=%" alt="Progress" /><br>
 <img src="https://progress-bar.dev/26/?scale=100&title=Sakura%20Market%20%20&width=220&color=968c52&suffix=%" alt="Progress" />
-</div>   
+</div>    -->
 
 <!-- ![Progress](https://progress-bar.dev/29/) -->
 <!-- ![Progress](https://progress-bar.dev/42/?scale=100&title=AWS%20Certificate&width=220&color=007eb9&suffix=%) -->
