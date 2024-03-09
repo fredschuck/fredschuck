@@ -44,14 +44,15 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 <br><br>
 </p>
 
-<div align="center"><h2>My Progress</h2></div>   
+<div align="center">
+<h2>My Progress</h2>
+<img src="https://progress-bar.dev/42/?scale=100&title=AWS%20Certificate&width=220&color=007eb9&suffix=%" alt="Progress" /><br>
+<img src="https://progress-bar.dev/25/?scale=100&title=PumpShare%20%20%20%20%20%20&width=220&color=4BBD8E&suffix=%" alt="Progress" /><br>
+<img src="https://progress-bar.dev/26/?scale=100&title=Sakura%20Market%20%20&width=220&color=968c52&suffix=%" alt="Progress" />
+</div>   
 
 <!-- ![Progress](https://progress-bar.dev/29/) -->
-![Progress](https://progress-bar.dev/42/?scale=100&title=AWS%20Certificate&width=220&color=007eb9&suffix=%)
-
-![Progress](https://progress-bar.dev/25/?scale=100&title=PumpShare%20%20%20%20%20%20&width=220&color=4BBD8E&suffix=%)
-
-![Progress](https://progress-bar.dev/26/?scale=100&title=Sakura%20Market%20%20&width=220&color=968c52&suffix=%)
+<!-- ![Progress](https://progress-bar.dev/42/?scale=100&title=AWS%20Certificate&width=220&color=007eb9&suffix=%) -->
 
 <div align="center">
   <br><br>
