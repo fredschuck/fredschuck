@@ -11,7 +11,7 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 
 
 ## Skills 
-- **Programming Languages**: JavaScript,Java, Python, C, Swift
+- **Programming Languages**: JavaScript, Java, Python, C, Swift
 - **Web Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS
 - **Mobile Development**: Android
 - **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL
@@ -25,9 +25,10 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 |------------------|-----------------------------------------------------|----------|
 | [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                        | ![Progress](https://progress-bar.dev/26/?scale=100&&width=220&suffix=%)|
 | [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts   | ![Progress](https://progress-bar.dev/25/?scale=100&width=220&suffix=%) |
-| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate     | ![Progress](https://progress-bar.dev/42/?scale=100&width=220&suffix=%) |
-| Docker Course                                                 | Learning Docker (starting Mar. 18)                     | ![Progress](https://progress-bar.dev/0/?scale=100&width=220&suffix=%)  |
-| Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate (starting Apr. 4) | ![Progress](https://progress-bar.dev/0/?scale=100&width=220&suffix=%)  |
+| [AWS Cloud Practitioner Certificate](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=KEEPLEARNING) | Obtaining my AWS Cloud Practitioner Certificate     | ![Progress](https://progress-bar.dev/42/?scale=100&width=220&suffix=%) |
+| [Docker Course](https://learn.cantrill.io/p/docker-fundamentals)  | Learning Docker (starting Mar. 18)                     | ![Progress](https://progress-bar.dev/0/?scale=100&width=220&suffix=%)  |
+| [Microsoft Azure Fundamentals Certificate](https://www.udemy.com/course/az900-azure/?couponCode=KEEPLEARNING)                      | Obtaining my Microsoft Azure Fundamentals Certificate (starting Apr. 4) | ![Progress](https://progress-bar.dev/0/?scale=100&width=220&suffix=%)  |
+
 - 🌱 I’m learning **Portuguese** 
 
 - 👯 I’m looking to collaborate on **anything!**
