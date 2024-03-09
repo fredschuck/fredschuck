@@ -26,8 +26,8 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 | [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                        | ![Progress](https://progress-bar.dev/26/?scale=100&&width=220&suffix=%)|
 | [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts        | ![Progress](https://progress-bar.dev/25/?scale=100&width=220&suffix=%) |
 | AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/51/?scale=100&width=220&suffix=%) |
-| Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/0/?scale=100&width=220&suffix=%)  |
-| Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate (starting Apr. 4) | ![Progress](https://progress-bar.dev/32/?scale=100&width=220&suffix=%)   |
+| Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/32/?scale=100&width=220&suffix=%)  |
+| Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate (starting Apr. 4) | ![Progress](https://progress-bar.dev/0/?scale=100&width=220&suffix=%)   |
  
 - 🌱 I’m learning **Portuguese** 
 
