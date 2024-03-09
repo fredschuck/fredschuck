@@ -27,8 +27,6 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 | [PumpShare](https://github.com/lukesnc/pumpshare)             | A workout web-app                                   | ![Progress](https://progress-bar.dev/25/?scale=100&width=220&color=4BBD8E&suffix=%) |
 | AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate     | ![Progress](https://progress-bar.dev/42/?scale=100&width=220&color=007eb9&suffix=%) |
 
-- 🔭 I’m currently working on: an eCommerce web application, **[Sakura Market](https://github.com/fredschuck/sakura-market)**, a workout web-app, **[PumpShare](https://github.com/lukesnc/pumpshare)**, and obtaining my **AWS Cloud Practitioner Certificate**. 
-
 - 🌱 I’m learning **Docker** and **Portuguese** 
 
 - 👯 I’m looking to collaborate on **anything!**
