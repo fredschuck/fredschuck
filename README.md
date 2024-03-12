@@ -19,7 +19,8 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 - **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
-- 🔭 I’m currently working on:
+
+I'm currently working on a few projects and learning new technologies. Here's what I'm up to:
 
 | Project          | Description                                         | Progress |
 |------------------|-----------------------------------------------------|----------|
@@ -28,10 +29,6 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 | AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/74/?scale=100&width=150&suffix=%) |
 | Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/32/?scale=100&width=150&suffix=%)  |
 | Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate | ![Progress](https://progress-bar.dev/0/?scale=100&width=150&suffix=%)   |
- 
-- 🌱 I’m learning **Portuguese** 
-
-- 👯 I’m looking to collaborate on **anything!**
 
 ## Hobbies
 - 🎸 I play guitar
@@ -42,7 +39,7 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 
 - 🖥️ Code
 
-- 📚 Writing 
+- 📚 Writing
 
 - 🍗 Perfecting my wing seasoning recipe
 
