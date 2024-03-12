@@ -1,16 +1,15 @@
 <div align="center">
   <img src="git_headerGradient2.svg" alt="Fred Schuck" />
 </div>      
-                      
-    
+
 ## Hey! 👋
+
 I'm an avid DIY'er and love to build things. I enjoy working on fullstack applications, where I am able to exercise my design capabilites and develop backend logic to drive the application's functionality. I'm always looking for new opportunities to learn and grow as a developer.
 
 > “A ship is safe in harbor, but that's not what ships are for." — William Shed
 
+## Skills
 
-
-## Skills 
 - **Programming Languages**: JavaScript, Java, Python, C, Swift
 - **Web Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS
 - **Mobile Development**: Android
@@ -26,7 +25,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 |------------------|-----------------------------------------------------|----------|
 | [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                        | ![Progress](https://progress-bar.dev/47/?scale=100&width=150&suffix=%)|
 | [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts        | ![Progress](https://progress-bar.dev/25/?scale=100&width=150&suffix=%) |
-| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/74/?scale=100&width=150&suffix=%) |
+| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/84/?scale=100&width=150&suffix=%) |
 | Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/32/?scale=100&width=150&suffix=%)  |
 | Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate | ![Progress](https://progress-bar.dev/0/?scale=100&width=150&suffix=%)   |
 
