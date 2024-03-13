@@ -25,14 +25,14 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 |------------------|-----------------------------------------------------|----------|
 | [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                        | ![Progress](https://progress-bar.dev/47/?scale=100&width=150&suffix=%)|
 | [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts        | ![Progress](https://progress-bar.dev/25/?scale=100&width=150&suffix=%) |
-| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/84/?scale=100&width=150&suffix=%) |
+| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/90/?scale=100&width=150&suffix=%) |
 | Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/32/?scale=100&width=150&suffix=%)  |
 | Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate | ![Progress](https://progress-bar.dev/0/?scale=100&width=150&suffix=%)   |
 
 ## Hobbies
 - 🎸 I play guitar
 
-- ♟️ I play [chess](https://www.chess.com/member/fredschuck)  (ELO: ~1150 Rapid, ~850 Blitz)
+- ♟️ I play [chess](https://www.chess.com/member/fredschuck)  (ELO: ~1150 Rapid, ~900 Blitz)
 
 - 🎨 I love to design (Adobe Photoshop, Illustrator, XD)
 
