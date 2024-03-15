@@ -1,6 +1,6 @@
 <div align="center">
   <img src="git_headerGradient2.svg" alt="Fred Schuck" />
-</div>      
+</div>
 
 ## Hey! 👋
 
@@ -25,11 +25,19 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 |------------------|-----------------------------------------------------|----------|
 | [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                        | ![Progress](https://progress-bar.dev/47/?scale=100&width=150&suffix=%)|
 | [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts        | ![Progress](https://progress-bar.dev/25/?scale=100&width=150&suffix=%) |
-| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/90/?scale=100&width=150&suffix=%) |
-| Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/32/?scale=100&width=150&suffix=%)  |
-| Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate | ![Progress](https://progress-bar.dev/0/?scale=100&width=150&suffix=%)   |
+| AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/95/?scale=100&width=150&suffix=%) |
+| Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/59/?scale=100&width=150&suffix=%)  |
+| Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate | ![CDNJS](https://img.shields.io/badge/not%20started-7E7E7E) |
+| PHP & Laravel Course                      | Learn PHP fundamentals and Laravel framework | ![CDNJS](https://img.shields.io/badge/not%20started-7E7E7E)  |
+
+<!-- ![Progress](https://progress-bar.dev/0/?scale=100&width=150&suffix=%) -->
+<!-- ![CDNJS](https://img.shields.io/badge/not%20started-7E7E7E) -->
+<!-- ![CDNJS](https://img.shields.io/badge/pending-D48E04) -->
+
+<!-- > To learn more about what I've already worked on, check out my [progress tracker](). -->
 
 ## Hobbies
+
 - 🎸 I play guitar
 
 - ♟️ I play [chess](https://www.chess.com/member/fredschuck)  (ELO: ~1150 Rapid, ~900 Blitz)
@@ -47,17 +55,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 <a href="https://linkedin.com/in/fredschuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredschuck" height="30" width="40" /></a>
 </p>
 
-<!-- <div align="center">
-<h2>My Progress</h2>
-<img src="https://progress-bar.dev/42/?scale=100&title=AWS%20Certificate&width=220&color=007eb9&suffix=%" alt="Progress" /><br>
-<img src="https://progress-bar.dev/25/?scale=100&title=PumpShare%20%20%20%20%20%20&width=220&color=4BBD8E&suffix=%" alt="Progress" /><br>
-<img src="https://progress-bar.dev/26/?scale=100&title=Sakura%20Market%20%20&width=220&color=968c52&suffix=%" alt="Progress" />
-</div>    -->
-
-<!-- ![Progress](https://progress-bar.dev/29/) -->
-<!-- ![Progress](https://progress-bar.dev/42/?scale=100&title=AWS%20Certificate&width=220&color=007eb9&suffix=%) -->
-
 <div align="center">
   <br><br>
   <img src="honest-work.jpg" width="40%" alt="Fred Schuck" />
-</div>    
+</div>
