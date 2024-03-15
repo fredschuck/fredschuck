@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="git_headerGradient2.svg" alt="Fred Schuck" />
+  <img src="git_headerGradient2.svg"/>
 </div>
 
 ## Hey! 👋
@@ -27,12 +27,12 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts        | ![Progress](https://progress-bar.dev/32/?scale=100&width=150&suffix=%) |
 | AWS Cloud Practitioner Certificate                            | Obtaining my AWS Cloud Practitioner Certificate           | ![Progress](https://progress-bar.dev/95/?scale=100&width=150&suffix=%) |
 | Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/59/?scale=100&width=150&suffix=%)  |
-| Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate | ![CDNJS](https://img.shields.io/badge/not%20started-5A5A5A) |
-| PHP & Laravel Course                      | Learn PHP fundamentals and Laravel framework | ![CDNJS](https://img.shields.io/badge/not%20started-5A5A5A)  |
+| Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A) |
+| PHP & Laravel Course                      | Learn PHP fundamentals and Laravel framework | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)  |
 
 <!-- ![Progress](https://progress-bar.dev/0/?scale=100&width=150&suffix=%) -->
-<!-- ![CDNJS](https://img.shields.io/badge/not%20started-5A5A5A) -->
-<!-- ![CDNJS](https://img.shields.io/badge/pending-D48E04) -->
+<!-- ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A) -->
+<!-- ![Pending](https://img.shields.io/badge/pending-D48E04) -->
 
 <!-- > To learn more about what I've already worked on, check out my [progress tracker](). -->
 
@@ -52,10 +52,13 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fredschuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredschuck" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fredschuck" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="60" viewBox="0 0 48 48">
+<path fill="#0288D1" d="M42,37c0,2.762-2.238,5-5,5H11c-2.761,0-5-2.238-5-5V11c0-2.762,2.239-5,5-5h26c2.762,0,5,2.238,5,5V37z"></path><path fill="#FFF" d="M12 19H17V36H12zM14.485 17h-.028C12.965 17 12 15.888 12 14.499 12 13.08 12.995 12 14.514 12c1.521 0 2.458 1.08 2.486 2.499C17 15.887 16.035 17 14.485 17zM36 36h-5v-9.099c0-2.198-1.225-3.698-3.192-3.698-1.501 0-2.313 1.012-2.707 1.99C24.957 25.543 25 26.511 25 27v9h-5V19h5v2.616C25.721 20.5 26.85 19 29.738 19c3.578 0 6.261 2.25 6.261 7.274L36 36 36 36z"></path>
+</svg></a>
 </p>
 
 <div align="center">
   <br><br>
-  <img src="honest-work.jpg" width="40%" alt="Fred Schuck" />
+  <img src="honest-work.jpg" width="40%" />
 </div>
+
