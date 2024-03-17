@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="git_headerGradient2.svg"/>
+  <img src="git_headerGradient.svg"/>
 </div>
 
 ## Hey! 👋
