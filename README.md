@@ -24,7 +24,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | Project          | Description                                         | Progress |
 |------------------|-----------------------------------------------------|----------|
 | [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                        | ![Progress](https://progress-bar.dev/68/?scale=100&width=150&suffix=%)|
-| [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts        | ![Progress](https://progress-bar.dev/38/?scale=100&width=150&suffix=%) |
+| [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts        | ![Progress](https://progress-bar.dev/52/?scale=100&width=150&suffix=%) |
 | Docker Course                                                 | Learning Docker                             | ![Progress](https://progress-bar.dev/59/?scale=100&width=150&suffix=%)  |
 | Microsoft Azure Fundamentals Certificate                      | Obtaining my Microsoft Azure Fundamentals Certificate | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A) |
 | PHP & Laravel Course                      | Learn PHP fundamentals and Laravel framework | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)  |
