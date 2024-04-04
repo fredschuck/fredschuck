@@ -23,7 +23,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 
 | Project          | Description                                         | Progress |
 |------------------|-----------------------------------------------------|----------|
-| AWS Certified Developer - Associate                           | Obtaining my AWS Developer Certificate           | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
+| AWS Certified Developer - Associate                           | Obtaining my AWS Developer Certificate           | ![Progress](https://progress-bar.dev/0/?scale=100&width=150&suffix=%) |
 | PHP & Laravel Course                      | Learn PHP fundamentals and Laravel framework | ![Progress](https://progress-bar.dev/5/?scale=100&width=150&suffix=%)  |
 | [Sakura Market](https://github.com/fredschuck/sakura-market)  | An eCommerce web application                        | ![Progress](https://progress-bar.dev/68/?scale=100&width=150&suffix=%)|
 | [PumpShare](https://github.com/lukesnc/pumpshare)             | A web application for logging & tracking workouts        | ![Progress](https://progress-bar.dev/52/?scale=100&width=150&suffix=%) |
