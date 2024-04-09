@@ -25,7 +25,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | ------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------- |
 | AWS Certified Developer - Associate                          | Obtaining my AWS Developer Certificate                | ![Progress](https://progress-bar.dev/0/?scale=100&width=150&suffix=%)   |
 | PHP & Laravel Course                                         | Learn PHP fundamentals and Laravel framework          | ![Progress](https://progress-bar.dev/5/?scale=100&width=150&suffix=%)   |
-| [Sakura Market](https://github.com/fredschuck/sakura-market) | An eCommerce web application                          | ![Progress](https://progress-bar.dev/78/?scale=100&width=150&suffix=%)  |
+| [Sakura Market](https://github.com/fredschuck/sakura-market) | An eCommerce web application                          | ![Progress](https://progress-bar.dev/82/?scale=100&width=150&suffix=%)  |
 | [PumpShare](https://github.com/lukesnc/pumpshare)            | A web application for logging & tracking workouts     | ![Progress](https://progress-bar.dev/52/?scale=100&width=150&suffix=%)  |
 | Docker Course                                                | Learning Docker                                       | ![Progress](https://progress-bar.dev/80/?scale=100&width=150&suffix=%)  |
 | Microsoft Azure Fundamentals Certificate                     | Obtaining my Microsoft Azure Fundamentals Certificate | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
