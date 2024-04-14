@@ -23,7 +23,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 
 | Project                                                      | Description                                           | Progress                                                                |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------- |
-| Image Resizing Application                                   | Description                                           | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
+| Image Resizing Application                                   | Building small, basic resizing app using Electron     | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
 | AWS Certified Developer - Associate                          | Obtaining my AWS Developer Certificate                | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
 | PHP & Laravel Course                                         | Learn PHP fundamentals and Laravel framework          | ![Progress](https://progress-bar.dev/18/?scale=100&width=150&suffix=%)  |
 | [Sakura Market](https://github.com/fredschuck/sakura-market) | An eCommerce web application                          | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
