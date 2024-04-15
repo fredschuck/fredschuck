@@ -23,7 +23,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 
 | Project                                                      | Description                                           | Progress                                                                |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------- |
-| Image Resizing Application                                   | Building small, basic resizing app using Electron     | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
+| Image Resizing Application                                   | Building small, basic resizing app using Electron     | ![Not Started](https://img.shields.io/badge/in%20progress-E3A853)       |
 | AWS Certified Developer - Associate                          | Obtaining my AWS Developer Certificate                | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
 | Microsoft Azure Fundamentals Certificate                     | Obtaining my Microsoft Azure Fundamentals Certificate | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
 | PHP & Laravel Course                                         | Learn PHP fundamentals and Laravel framework          | ![Progress](https://progress-bar.dev/40/?scale=100&width=150&suffix=%)  |
