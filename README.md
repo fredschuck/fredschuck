@@ -11,7 +11,7 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 ## Skills
 
 - **Programming Languages**: JavaScript, Java, Python, C, Swift
-- **Web Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS
+- **Web Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS, Electron
 - **Mobile Development**: Android
 - **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL
 - **Testing and Tools**: JUnit, Git, VS Code, Postman, Android Studio, Eclipse
