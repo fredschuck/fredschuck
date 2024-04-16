@@ -21,18 +21,19 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 
 I'm currently working on a few projects and learning new technologies. Here's what I'm up to:
 
-| Project                                                      | Description                                           | Progress                                                                |
-| ------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------- |
-| AWS Certified Developer - Associate                          | Obtaining my AWS Developer Certificate                | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
-| Microsoft Azure Fundamentals Certificate                     | Obtaining my Microsoft Azure Fundamentals Certificate | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
-| PHP & Laravel Course                                         | Learn PHP fundamentals and Laravel framework          | ![Progress](https://progress-bar.dev/40/?scale=100&width=150&suffix=%)  |
-| [PumpShare](https://github.com/lukesnc/pumpshare)            | A web application for logging & tracking workouts     | ![Progress](https://progress-bar.dev/69/?scale=100&width=150&suffix=%)  |
-| [PhotoFit](https://github.com/fredschuck/image-resizer)      | Image resizing desktop app using Electron             | ![Not Started](https://img.shields.io/badge/done-0277A3)                |
-| [Sakura Market](https://github.com/fredschuck/sakura-market) | An eCommerce web application                          | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
-| Docker Course                                                | Learning Docker                                       | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
-| AWS Cloud Practitioner Certificate                           | Obtaining my AWS Cloud Practitioner Certificate       | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
+| Project                                                      | Description                                                                                     | Progress                                                                |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [ChowNow](https://github.com/fredschuck/chownow)             | Food delivery app with login, restaurant listings, search, Stripe checkout, and order tracking. | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
+| AWS Certified Developer - Associate                          | Obtaining my AWS Developer Certificate                                                          | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
+| Microsoft Azure Fundamentals Certificate                     | Obtaining my Microsoft Azure Fundamentals Certificate                                           | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
+| PHP & Laravel Course                                         | Learning PHP fundamentals and Laravel framework                                                 | ![Progress](https://progress-bar.dev/40/?scale=100&width=150&suffix=%)  |
+| [PumpShare](https://github.com/lukesnc/pumpshare)            | A web application for logging & tracking workouts                                               | ![Progress](https://progress-bar.dev/69/?scale=100&width=150&suffix=%)  |
+| [PhotoFit](https://github.com/fredschuck/image-resizer)      | Image resizing desktop app using Electron                                                       | ![Not Started](https://img.shields.io/badge/done-0277A3)                |
+| [Sakura Market](https://github.com/fredschuck/sakura-market) | An eCommerce web application                                                                    | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
+| Docker Course                                                | Learning Docker                                                                                 | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
+| AWS Cloud Practitioner Certificate                           | Obtaining my AWS Cloud Practitioner Certificate                                                 | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
 
-To see more of what I've completed, check out [My Progress](./Progress.md)
+<!-- To see more of what I've completed, check out [My Progress](./Progress.md) -->
 
 <!-- > To learn more about what I've already worked on, check out my [progress tracker](). -->
 
