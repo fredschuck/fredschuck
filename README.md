@@ -13,7 +13,7 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 - **Programming Languages**: JavaScript, Java, Python, C, Swift
 - **Web Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS, Electron
 - **Mobile Development**: Android
-- **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL
+- **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL, PHP, Laravel
 - **Testing and Tools**: JUnit, Git, VS Code, Postman, Android Studio, Eclipse
 - **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
@@ -27,7 +27,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | Microsoft Azure Fundamentals Certificate                     | Obtaining my Microsoft Azure Fundamentals Certificate | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
 | PHP & Laravel Course                                         | Learn PHP fundamentals and Laravel framework          | ![Progress](https://progress-bar.dev/40/?scale=100&width=150&suffix=%)  |
 | [PumpShare](https://github.com/lukesnc/pumpshare)            | A web application for logging & tracking workouts     | ![Progress](https://progress-bar.dev/69/?scale=100&width=150&suffix=%)  |
-| [Image Resizer](https://github.com/fredschuck/image-resizer) | Building small, basic resizing app using Electron     | ![Not Started](https://img.shields.io/badge/done-0277A3)                |
+| [PhotoFit](https://github.com/fredschuck/image-resizer)      | Image resizing desktop app using Electron             | ![Not Started](https://img.shields.io/badge/done-0277A3)                |
 | [Sakura Market](https://github.com/fredschuck/sakura-market) | An eCommerce web application                          | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
 | Docker Course                                                | Learning Docker                                       | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
 | AWS Cloud Practitioner Certificate                           | Obtaining my AWS Cloud Practitioner Certificate       | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
