@@ -14,7 +14,7 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 - **Front-End Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS, TypeScript, Electron
 - **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL, PHP
 - **Mobile Development**: Android
-- **Testing and Tools**: JUnit, Git, VS Code, Postman, Android Studio, Eclipse
+- **DevOps Tools & Testing**: Git, Docker, Postman, JUnit
 - **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ## What I'm Up To
@@ -26,7 +26,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | AWS Certified Developer - Associate                              | Obtaining my AWS Developer Certificate                                                          | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
 | [Inkwell](https://github.com/fredschuck/inkwell)                 | Desktop markdown notes application built with Electron, React, Typescript, and Tailwind         | ![Progress](https://progress-bar.dev/15/?scale=100&width=150&suffix=%)  |
 | [ChowNow](https://github.com/fredschuck/ChowNow)                 | Food delivery app with login, restaurant listings, search, Stripe checkout, and order tracking. | ![Progress](https://progress-bar.dev/17/?scale=100&width=150&suffix=%)  |
-| [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![Progress](https://progress-bar.dev/20/?scale=100&width=150&suffix=%)  |
+| [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![Progress](https://progress-bar.dev/34/?scale=100&width=150&suffix=%)  |
 | PHP & Laravel Course                                             | Learning PHP fundamentals and Laravel framework                                                 | ![Progress](https://progress-bar.dev/40/?scale=100&width=150&suffix=%)  |
 | [PumpShare](https://github.com/lukesnc/pumpshare)                | A web application for logging & tracking workouts                                               | ![Progress](https://progress-bar.dev/74/?scale=100&width=150&suffix=%)  |
 | Microsoft Azure Fundamentals Certificate                         | Obtaining my Microsoft Azure Fundamentals Certificate                                           | ![Not Started](https://img.shields.io/badge/not%20started-5A5A5A)       |
