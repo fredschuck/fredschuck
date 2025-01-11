@@ -31,7 +31,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![Progress](https://progress-bar.dev/42/?scale=100&width=150&suffix=%)  |
 | PHP & Laravel Course                                             | Learning PHP fundamentals and Laravel framework                                                 | ![Progress](https://progress-bar.dev/40/?scale=100&width=150&suffix=%)  |
 | [PumpShare](https://github.com/lukesnc/pumpshare)                | A web application for logging & tracking workouts                                               | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
-| [PhotoFit](https://github.com/fredschuck/image-resizer)          | Image resizing desktop app using Electron                                                       | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) |
+| [PhotoFit](https://github.com/fredschuck/image-resizer)          | Image resizing desktop app using Electron                                                       | ![](https://geps.dev/progress/100) |
 
 <!-- | [Sakura Market](https://github.com/fredschuck/sakura-market)     | An eCommerce web application                                                                    | ![Progress](https://progress-bar.dev/100/?scale=100&width=150&suffix=%) | -->
 
