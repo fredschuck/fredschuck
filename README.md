@@ -24,12 +24,11 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | Project                                                          | Description                                                                                     | Progress                                                                |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | InnSight                                                         | Description                                                                                     | ![](https://geps.dev/progress/0)   |
-| Microsoft Azure Fundamentals Certificate                         | Obtaining my Microsoft Azure Fundamentals Certificate                                           | ![](https://geps.dev/progress/0)   |
-| AWS Certified Developer - Associate                              | Obtaining my AWS Developer Certificate                                                          | ![](https://geps.dev/progress/6)   |
+| Microsoft Azure Fundamentals Certificate                         | Obtain my Microsoft Azure Fundamentals Certificate                                              | ![](https://geps.dev/progress/0)   |
+| AWS Certified Developer - Associate                              | Obtain my AWS Developer Certificate                                                             | ![](https://geps.dev/progress/6)   |
 | [Inkwell](https://github.com/fredschuck/inkwell)                 | Desktop markdown notes application built with Electron, React, Typescript, and Tailwind         | ![](https://geps.dev/progress/15)  |
 | [ChowNow](https://github.com/fredschuck/ChowNow)                 | Food delivery app with login, restaurant listings, search, Stripe checkout, and order tracking. | ![](https://geps.dev/progress/23)  |
 | [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![](https://geps.dev/progress/42)  |
-| PHP & Laravel Course                                             | Learning PHP fundamentals and Laravel framework                                                 | ![](https://geps.dev/progress/40)  |
 | [PumpShare](https://github.com/lukesnc/pumpshare)                | A web application for logging & tracking workouts                                               | ![](https://geps.dev/progress/100) |
 | [PhotoFit](https://github.com/fredschuck/image-resizer)          | Image resizing desktop app using Electron                                                       | ![](https://geps.dev/progress/100) |
 
