@@ -51,6 +51,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
  </a>
 </p>
 
+<!-- 
 <div align="center">
   <br><br>
   <img src="honest-work.jpg" width="40%" />
