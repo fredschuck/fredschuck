@@ -12,7 +12,7 @@ I'm an avid DIY'er and love to build things. I enjoy working on fullstack applic
 
 - **Programming Languages**: JavaScript, Java, Python, C, Swift
 - **Front-End Development**: HTML, CSS, SASS, React, Bootstrap, Tailwind CSS, TypeScript, Electron
-- **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, PostgreSQL, MySQL, PHP
+- **Back-End Technologies**: NodeJS, Express, Flask, MongoDB, DynamoDB, PostgreSQL, MySQL, PHP
 - **Mobile Development**: Android
 - **DevOps Tools & Testing**: Git, Docker, Postman, JUnit
 - **Design Tools**: Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
