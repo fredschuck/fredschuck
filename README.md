@@ -54,5 +54,5 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 
 <div align="center">
   <br><br>
-  <img src="cert-educate-introGenAI.png" width="20%" />
+  <img src="cert-educate-introGenAI.png" width="30px" />
 </div>
