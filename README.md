@@ -54,5 +54,6 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 
 <div align="center">
   <br><br>
+  <h2>Certificates</h2>
   <img src="cert-educate-introGenAI.png" width="100px" />
 </div>
