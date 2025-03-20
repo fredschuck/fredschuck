@@ -55,6 +55,6 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 <div align="center">
   <br><br>
   <h2>Certificates</h2>
-  <img src="cert-aws-cpp.png" height="120px" />
+  <img src="cert-aws-cpp.png" height="100px" />
   <img src="cert-educate-introGenAI.png" height="120px" />
 </div>
