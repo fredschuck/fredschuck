@@ -29,7 +29,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | [ChowNow](https://github.com/fredschuck/ChowNow)                 | Food delivery app with login, restaurant listings, search, Stripe checkout, and order tracking. | ![](https://geps.dev/progress/23)  |
 | [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![](https://geps.dev/progress/42)  |
 | [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![https://geps.dev/progress/test](https://progress-bar.xyz/0/?&title=in%20progress&show_text=false&width=0)  |
-| [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![https://geps.dev/progress/test](https://progress-bar.xyz/0/?%test)  |
+| [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![https://geps.dev/progress/test](https://progress-bar.xyz/_/?%test)  |
 
 ## Hobbies
 
