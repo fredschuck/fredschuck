@@ -28,7 +28,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | [Inkwell](https://github.com/fredschuck/inkwell)                 | Desktop markdown notes application built with Electron, React, Typescript, and Tailwind         | ![](https://geps.dev/progress/15)  |
 | [ChowNow](https://github.com/fredschuck/ChowNow)                 | Food delivery app with login, restaurant listings, search, Stripe checkout, and order tracking. | ![](https://geps.dev/progress/23)  |
 | [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![](https://geps.dev/progress/42)  |
-| [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![https://geps.dev/progress/test](https://progress-bar.xyz/0/?&title=in%23progress&show_text=false)  |
+| [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | ![https://geps.dev/progress/test](https://progress-bar.xyz/0/?&title=in%20progress&show_text=false&width=0)  |
 
 ## Hobbies
 
