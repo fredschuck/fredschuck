@@ -27,7 +27,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 | [Inkwell](https://github.com/fredschuck/inkwell)                 | Desktop markdown notes application built with Electron, React, Typescript, and Tailwind         | 
 | [ChowNow](https://github.com/fredschuck/ChowNow)                 | Food delivery app with login, restaurant listings, search, Stripe checkout, and order tracking  |
 | [React Dashboard](https://github.com/fredschuck/react-dashboard) | React dashboard web application using React and Material UI                                     | 
-| SparkCard                                                        | A digital business card that is paired to an NFC card (Hosting on Amplify)                      | 
+| SparkCard                                                        | A digital business card that is paired to an NFC card                                           | 
 
 ## Hobbies
 
