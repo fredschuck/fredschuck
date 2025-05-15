@@ -33,7 +33,7 @@ I'm currently working on a few projects and learning new technologies. Here's wh
 
 - 🎸 I play guitar
 
-- ♟️ I play [chess](https://www.chess.com/member/fredschuck) (ELO: ~1150 Rapid, ~900 Blitz)
+- ♟️ I play [chess](https://www.chess.com/member/fredschuck) (ELO: ~1200 Rapid, ~900 Blitz)
 
 - 🎨 I love to design (Adobe Photoshop, Illustrator, XD)
 
